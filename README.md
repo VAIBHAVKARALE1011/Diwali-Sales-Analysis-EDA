@@ -54,16 +54,6 @@ The dataset used for this project is **Diwali Sales Data.csv**, containing:
 
 ---
 
-## 📸 Sample Visualizations
-
-| Gender Distribution | Top 5 States by Sales |
-|--------------------|--------------------|
-| ![Gender Chart](https://raw.githubusercontent.com/VAIBHAVKARALE1011/Diwali-Sales-Analysis/main/images/gender_plot.png) | ![State Chart](https://raw.githubusercontent.com/VAIBHAVKARALE1011/Diwali-Sales-Analysis/main/images/state_plot.png) |
-
-*(You can add actual screenshots from your notebook here)*
-
----
-
 ## 🚀 How to Run This Project
 
 1. Clone the repository:
